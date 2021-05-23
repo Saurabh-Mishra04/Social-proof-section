@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://your-solution-url.com)
-- Live Site URL: [saurabh-mishra.github.io](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/responsive-layout-using-flexbox-and-sematic-html-L_HQwoG8vC)
+- Live Site URL: [saurabh-mishra.github.io](https://saurabh-mishra04.github.io/Social-proof-section/)
 
 ### Screenshot
 ![image](https://user-images.githubusercontent.com/82585860/119260939-b2223c80-bbf2-11eb-96b9-a17fdfc20881.png)
